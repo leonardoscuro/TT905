@@ -5,11 +5,9 @@
 </head>
 <body>
 <h1>Atividade 2 - Cidades</h1>
-<a href='index.html#primeira_secao'>
-Americana
-</a>
+<a href='atividade2.html#primeira_secao'>Americana</a>
 <p>Cidade em que eu nasci</p>
-<h1 id="primeira_secao">Americana</h1>
+<h2 id="primeira_secao">Americana</h2>
 <a href='https://pt.wikipedia.org/wiki/Americana'>
 <img src="https://acia.com.br/wp-content/uploads/2015/04/cidade-de-americana-aerea-dener-chimeli.jpg" />
 </a>
