@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Atividade 2 - Cidades</title>
+</head>
+<body>
+<a href="#Americana">
+Americana
+Limeira
+Poços de Caldas
+Porto Feliz
+Sorocaba
+</a>
+<p>Cidade em que eu nasci</p>
+<h1>Americana</h1>
+<a href="#">
+<img src="https://acia.com.br/wp-content/uploads/2015/04/cidade-de-americana-aerea-dener-chimeli.jpg" />
+</a>
+
+</body>
+</html>
