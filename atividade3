@@ -1,52 +1,50 @@
 <!DOCTYPE html>
-<html> 
-	<h1><em> Os Cinco Melhores Lugares do Brasil!!</em> </h1> 
+<html>
+<head>
+<title>Atividade 3 - Cidades</title>
+</head>
 <body>
+<h1>Atividade 3 - Leonardo Scuro - RA:178624</h1>
 
 <details>
 <summary>
-<h3>Lista Cidades</h3>
+<h2>Cidades</h2>
 </summary>
 <ul>
-<li><a>Curitiba<a></li>
-<li><a>Porto de Galinhas<a></li>
-<li><a>Brasilia</a></li>
-<li><a>Fortaleza</a></li>
-<li><a>Sao Paulo</a></li>
+<li><a href='atividade3.html#primeira_secao'>Americana</a>
+<p>Cidade em que eu nasci e cresci</p></li>
+<li><a href='atividade3.html#segunda_secao'>Porto Feliz</a>
+<p>Cidade em que meus parentes moram</p></li>
+<li><a href='atividade3.html#terceira_secao'>Natal</a>
+<p>Já viajei pra lá uma vez</p></li>
+<li><a href='atividade3.html#quarta_secao'>Poços de Caldas</a>
+<p>Eu já viajei para essa cidade várias vezes</p></li>
+<li><a href='atividade3.html#quinta_secao'>Olímpia</a>
+<p>Eu sempre visitava o parque aquático dessa cidade</p></li>
 </ul>
 </details>
 
-<details>
-<summary>
-<h5>População Cidades<h5>
-</summary>
-<table border="">
-<tr>
-<td><a id="Curitiba">Curitiba</a></td>
-<td>Possui 1,9 milhões de habitantes</td>
-</tr>
-<tr>
-<td><a id="Porto de Galinhas">Porto de Galinhas</a></td>
-<td>Possui uma população de 80mil habitantes no municipio e a vila em si, posui 4 mil habitantes</td>
-</tr>
-<tr>
-<td><a id="Brasilia">Brasilia</a></td>
-<td>Possui 3,05 milhões de moradores</td>
-</tr>
-<tr>
-<td><a id="Fortaleza">Fortaleza</a></td>
-<td>Possui 2,4 milhões de habitantes</td>
-</tr>
-<tr>
-<td><a id="Sao Paulo">Sao Paulo</a></td>
-<td>Possui com 12,3 milhões habitantes</td>
-</tr>
-<caption> População da cidade</caption>
-</table>
-</details>
 
-<h4>Arquivo Video</h4>
-<video> src="C:\Users\luizf\Downloads\estudo\PRogWeb\Ativ3 RA 202 372 173902.mp4" width="400px" controls="true"></video>
- 
+<h2 id="primeira_secao">Americana - SP</h2>
+<a href='https://pt.wikipedia.org/wiki/Americana'>
+<img src="https://acia.com.br/wp-content/uploads/2015/04/cidade-de-americana-aerea-dener-chimeli.jpg" />
+</a>
+<h2 id="segunda_secao">Porto Feliz - SP</h2>
+<a href='https://pt.wikipedia.org/wiki/Porto_Feliz'>
+<img src="https://www.jornalcruzeiro.com.br/wp-content/uploads/2019/10/Porto-Feliz-comemora-hoje-326-anos.jpg" />
+</a>
+<h2 id="terceira_secao">Natal - RN</h2>
+<a href='https://pt.wikipedia.org/wiki/Natal_(Rio_Grande_do_Norte)'>
+<img src="https://apartamento702.com.br/wp-content/uploads/2015/08/100_3885-1024x719.jpg" />
+</a>
+<h2 id="quarta_secao">Poços de Caldas - MG</h2>
+<a href='https://pt.wikipedia.org/wiki/Po%C3%A7os_de_Caldas'>
+<img src="https://pontosturisticos.net/wp-content/uploads/2017/11/pontos-turisticos-pocos-de-caldas-800x474.jpg" />
+</a>
+<h2 id="quinta_secao">Olímpia - SP</h2>
+<a href='https://pt.wikipedia.org/wiki/Ol%C3%ADmpia_(S%C3%A3o_Paulo)'>
+<img src="https://www.revistahoteis.com.br/wp-content/uploads/2019/12/2019-09-18-NATOS-OLIMPIA-aerea-baixaSITE.jpg" />
+</a>
+
 </body>
 </html>
