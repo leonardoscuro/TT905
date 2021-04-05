@@ -85,7 +85,7 @@
 </a>
 
 <h4>Vídeo</h4>
-<video> src="C:\Users\Usuario\Downloads\progweb.mp4" width="400px" controls</video>
+<video> src="C:\Users\Usuario\Downloads\progweb.mp4" width="400px" controls="true"</video>
 
 </body>
 </html>
