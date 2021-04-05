@@ -29,26 +29,29 @@
 </summary>
 <table border="">
 <tr>
+<td></td>
+<td>População</td>
+</tr>
+<tr>
 <td>Americana</td>
-<td>Possui 1,9 milhões de habitantes</td>
+<td>242.018 habitantes</td>
 </tr>
 <tr>
 <td>Porto Feliz</td>
-<td>Possui uma população de 80mil habitantes no municipio e a vila em si, posui 4 mil habitantes</td>
+<td>53.402 habitantes</td>
 </tr>
 <tr>
 <td>Natal</td>
-<td>Possui 3,05 milhões de moradores</td>
+<td>890.480 habitantes</td>
 </tr>
 <tr>
 <td>Poços de Caldas</td>
-<td>Possui 2,4 milhões de habitantes</td>
+<td>168.641 habitantes</td>
 </tr>
 <tr>
 <td>Olímpia</td>
-<td>Possui com 12,3 milhões habitantes</td>
+<td>55.130 habitantes</td>
 </tr>
-<caption> População da cidade</caption>
 </table>
 </details>
 
@@ -56,23 +59,23 @@
 
 <h3 id="primeira_secao">Americana - SP</h3>
 <a href='https://pt.wikipedia.org/wiki/Americana'>
-<img src="https://acia.com.br/wp-content/uploads/2015/04/cidade-de-americana-aerea-dener-chimeli.jpg" />
+<img src="https://acia.com.br/wp-content/uploads/2015/04/cidade-de-americana-aerea-dener-chimeli.jpg" width="200px"/>
 </a>
 <h3 id="segunda_secao">Porto Feliz - SP</h3>
 <a href='https://pt.wikipedia.org/wiki/Porto_Feliz'>
-<img src="https://www.jornalcruzeiro.com.br/wp-content/uploads/2019/10/Porto-Feliz-comemora-hoje-326-anos.jpg" />
+<img src="https://www.jornalcruzeiro.com.br/wp-content/uploads/2019/10/Porto-Feliz-comemora-hoje-326-anos.jpg" width="200px"/>
 </a>
 <h3 id="terceira_secao">Natal - RN</h3>
 <a href='https://pt.wikipedia.org/wiki/Natal_(Rio_Grande_do_Norte)'>
-<img src="https://apartamento702.com.br/wp-content/uploads/2015/08/100_3885-1024x719.jpg" />
+<img src="https://apartamento702.com.br/wp-content/uploads/2015/08/100_3885-1024x719.jpg" width="200px"/>
 </a>
 <h3 id="quarta_secao">Poços de Caldas - MG</h3>
 <a href='https://pt.wikipedia.org/wiki/Po%C3%A7os_de_Caldas'>
-<img src="https://pontosturisticos.net/wp-content/uploads/2017/11/pontos-turisticos-pocos-de-caldas-800x474.jpg" />
+<img src="https://pontosturisticos.net/wp-content/uploads/2017/11/pontos-turisticos-pocos-de-caldas-800x474.jpg" width="200px"/>
 </a>
 <h3 id="quinta_secao">Olímpia - SP</h3>
 <a href='https://pt.wikipedia.org/wiki/Ol%C3%ADmpia_(S%C3%A3o_Paulo)'>
-<img src="https://www.revistahoteis.com.br/wp-content/uploads/2019/12/2019-09-18-NATOS-OLIMPIA-aerea-baixaSITE.jpg" />
+<img src="https://www.revistahoteis.com.br/wp-content/uploads/2019/12/2019-09-18-NATOS-OLIMPIA-aerea-baixaSITE.jpg" width="200px"/>
 </a>
 
 
